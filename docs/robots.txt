@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alyosrae.github.io/cleaning-and-pest-control-services-uae-2/sitemap.xml
